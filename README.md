@@ -1,6 +1,6 @@
 
-Monitor and failsafe automation for your draconic evolution reactor
-This program is based of acidjazz and OmegaPhi115's code. Link to the original: https://github.com/acidjazz/drmon
+Monitor and failsafe automation for your draconic evolution reactor.
+This program is based of acidjazz and OmegaPhi115's code. Link to the original: https://github.com/acidjazz/drmon .
 Transformed form computercraft to opencomputers.
 
 ![](examples/2.jpg)
